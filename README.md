@@ -14,3 +14,6 @@ https://github.com/thierryc/Sketch-Find-And-Replace
 
 # Rename it
 https://github.com/rodi01/RenameIt
+
+# Automate-Sketch
+https://github.com/Ashung/Automate-Sketch
