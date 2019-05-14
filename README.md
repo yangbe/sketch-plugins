@@ -11,3 +11,6 @@ https://www.invisionapp.com/craft
 
 # Sketch-Find-And-Replace
 https://github.com/thierryc/Sketch-Find-And-Replace
+
+# Rename it
+https://github.com/rodi01/RenameIt
