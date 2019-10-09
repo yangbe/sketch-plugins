@@ -22,3 +22,6 @@ https://github.com/Ashung/Automate-Sketch
 # Styles-Generator
 (批量生成共享样式)
 https://github.com/lucaorio/sketch-styles-generator
+
+# Sketch Palettes
+https://github.com/andrewfiorillo/sketch-palettes
