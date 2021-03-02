@@ -17,6 +17,7 @@ https://github.com/thierryc/Sketch-Find-And-Replace
 https://github.com/rodi01/RenameIt
 
 # Automate-Sketch
+(修改组件)
 https://github.com/Ashung/Automate-Sketch
 
 # Styles-Generator
