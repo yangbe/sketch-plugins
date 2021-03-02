@@ -16,6 +16,10 @@ https://github.com/thierryc/Sketch-Find-And-Replace
 （改图层/画板名字）
 https://github.com/rodi01/RenameIt
 
+# Find and Replace
+(查找和替换文字内容)
+https://github.com/thierryc/Sketch-Find-And-Replace
+
 # Automate-Sketch
 (修改组件)
 https://github.com/Ashung/Automate-Sketch
