@@ -3,7 +3,7 @@
 # Auto Layout
 https://animaapp.github.io/Auto-Layout/
 
-# Sketch Measure
+# Sketch Measure(已停更)
 https://github.com/utom/sketch-measure
 
 # Craft
@@ -30,3 +30,7 @@ https://github.com/lucaorio/sketch-styles-generator
 
 # Sketch Palettes
 https://github.com/andrewfiorillo/sketch-palettes
+
+# Flavor
+(快速批量填充名字、时间、日期、手机号、邮箱数据等）
+https://fancynode.com.cn/flavor
