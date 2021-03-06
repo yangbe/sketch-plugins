@@ -34,3 +34,7 @@ https://github.com/andrewfiorillo/sketch-palettes
 # Flavor
 (快速批量填充名字、时间、日期、手机号、邮箱数据等）
 https://fancynode.com.cn/flavor
+
+# Sketch-Dark-Mode
+(定义颜色变量，生成DarkMode模式)
+https://github.com/eddiesigner/sketch-dark-mode
