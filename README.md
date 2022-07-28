@@ -38,3 +38,11 @@ https://fancynode.com.cn/flavor
 # Sketch-Dark-Mode
 (定义颜色变量，生成DarkMode模式)
 https://github.com/eddiesigner/sketch-dark-mode
+
+# hexo-breadcrumb 插件
+https://www.npmjs.com/package/hexo-breadcrumb
+
+#hexo-abbrlink2
+https://github.com/rozbo/hexo-abbrlink2
+
+
